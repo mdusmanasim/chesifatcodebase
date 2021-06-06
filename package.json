@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mdusmanasim/chesifatcodebase/issues"
   },
-  "homepage": "https://github.com/mdusmanasim/chesifatcodebase#readme"
+  "homepage": "https://github.com/mdusmanasim/chesifatcodebase#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
